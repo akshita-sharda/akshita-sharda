@@ -16,6 +16,12 @@ I’m interested in turning ideas into useful, well-documented products—from d
 
 ## Featured work
 
+### [Astronoma — astrology & Hinglish AI](https://github.com/akshita-sharda/astro-nama)
+
+A standalone celestial website with calculated birth charts, contextual Gemini conversations, numerology, compatibility factors, transit timelines, daily Panchang, multiple profiles, and local account backups. Built from an earlier Streamlit experiment, with clear calculation limits and a responsive animated interface.
+
+**Stack:** JavaScript · Node.js · Gemini · Astronomy Engine · Luxon · SQLite
+
 ### [StudyForge AI — current implementation](https://github.com/akshita-sharda/STUDYFORGE-AI-)
 
 A document-aware study workspace that brings together PDFs, grounded AI assistance, revision tracking, quizzes, flashcards, and planning.
